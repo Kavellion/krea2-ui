@@ -56,6 +56,16 @@ download. The token lives only in that box for this session —
 never written to a file or log — and leaving the box empty never
 overrides a saved Hugging Face login.
 
+## Examples
+
+![Frame 000001 — lighthouse in a storm (Krea 2 Turbo, FP8, seed 830180862). The model's first PC-proven frame.](examples/krea-lighthouse.png)
+
+Frame 000001 — lighthouse in a storm (Krea 2 Turbo, FP8, seed 830180862). The model's first PC-proven frame.
+
+![The Aztec priestess — the fleet test prompt, Krea 2 Turbo's reading of it.](examples/krea-priestess.png)
+
+The Aztec priestess — the fleet test prompt, Krea 2 Turbo's reading of it.
+
 ## Requirements
 
 - Windows PC with an NVIDIA GPU (built for an RTX 4070 12 GB and
